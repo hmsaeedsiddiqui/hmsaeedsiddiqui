@@ -23,31 +23,31 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=css" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=js" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=ts" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=react" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30" style="margin:2px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=js" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=ts" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" style="margin:2px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" style="margin:2px"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=express" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=nestjs" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=nestjs" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" style="margin:2px"/>
 </p>
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=github" width="30" height="30" style="margin:2px"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" style="margin:2px"/>
 </p>
 
 ---
