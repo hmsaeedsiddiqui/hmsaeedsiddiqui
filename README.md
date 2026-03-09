@@ -22,27 +22,33 @@
 ## 🚀 Tech Stack
 
 ### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" height="30" style="margin-right:5px" title="MUI"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=css" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=js" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=ts" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=react" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30" style="margin:2px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" height="30" style="margin:2px"/>
+</p>
 
 ### Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=express" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=nestjs" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="30" height="30" style="margin:2px"/>
+</p>
 
 ### Tools & Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=github" width="30" height="30" style="margin:2px"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" style="margin:2px"/>
+</p>
 
 ---
 
