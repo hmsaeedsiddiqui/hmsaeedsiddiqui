@@ -30,7 +30,7 @@
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![MUI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="30" height="30" style="margin-right:5px" title="MUI"/>
 
 ### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
@@ -75,7 +75,8 @@
 ## 🤝 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saeed_siddiqui___)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-siddiqui-9807a9262/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saeed.siddiqui.5203)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhamsiddiqui97@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
 
